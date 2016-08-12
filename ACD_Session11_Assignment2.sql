@@ -1,4 +1,3 @@
-*
 /*
  * Student: Eduardo Aguirre
  * Session 11
